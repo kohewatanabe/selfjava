@@ -32,8 +32,6 @@ public class s_2_5 {
             {3, 4, 5, 6},
             {7, 8, 9},
         };
-        
-
 
         System.out.println(list1[4]);
         System.out.println(list2.length);
@@ -44,6 +42,32 @@ public class s_2_5 {
         System.out.println(list7[0][1]);
         System.out.println(list8[0][1]);
         System.out.println(list9[0][1]);
+
+        //理解度チェック
+        final double DISCOUNT = 0.1;
+        var price = 500;
+        var sum = price * DISCOUNT;
+        System.out.println((price - sum));
+
+        //[5]
+        //1
+        var value = 10d;
+        System.out.println(value);
+        //2
+        System.out.println("ようこそ、Javaの世界へ!");
+        //3
+        String str = null;
+        System.out.println(str);
+        //4
+        int[][] data = new int[5][4];
+        //5
+        var list = new int[][] {
+            {2, 3, 5},
+            {1, 2},
+            {10, 11, 12, 13},
+        };
+        System.out.println(list[0][0]);
+
 
     }
 
