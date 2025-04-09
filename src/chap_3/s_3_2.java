@@ -16,6 +16,12 @@ public class s_3_2 {
 
         System.out.println(builder1);
         System.out.println(builder2);
+
+        final int[] VALUES = {10, 20, 30};
+
+        VALUES[0] = 100;
+
+        System.out.println(VALUES);
     
     }
 }
