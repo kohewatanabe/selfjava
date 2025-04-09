@@ -23,6 +23,8 @@ public class s_3_1 {
         String result2 = builder.toString();
         System.out.println(result2);
 
+        
+
     }
 
 }
