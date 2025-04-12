@@ -26,12 +26,7 @@ public class s_4_1_2 {
             default :
              System.out.println("???");
         }
-
-<<<<<<< HEAD
         var drink = "ビール";//1つ1つのcase句にbreakを入れないswitch文の書き方をフォースルーという。
-=======
-        var drink = "ビール";
->>>>>>> 31a3c6bba4ccd4481a336b011146bd853bbef106
         switch (drink) {// switch文は()内と一致したcase句があると、breakに当たるまで、それ以降のcase句を実行する。なので、break前の複数のcase句はorのような役割を果たす。
             case "日本酒":
             case "ビール":
