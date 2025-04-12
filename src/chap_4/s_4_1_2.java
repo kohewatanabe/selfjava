@@ -25,8 +25,22 @@ public class s_4_1_2 {
              System.out.println("がんばりましょう。");
             default :
              System.out.println("???");
-
         }
+
+        var drink = "ビール";
+        switch (drink) {// switch文は()内と一致したcase句があると、breakに当たるまで、それ以降のcase句を実行する。なので、break前の複数のcase句はorのような役割を果たす。
+            case "日本酒":
+            case "ビール":
+            case "ワイン":
+             System.out.println("醸造酒です。");
+             break;
+            case "ブランデー":
+            case "ウィスキー":
+             System.out.println("蒸留酒です。");
+             break;
+        }
+
+        
     }
 
 }
