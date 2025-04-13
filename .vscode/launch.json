@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "s_5_3_4",
+            "request": "launch",
+            "mainClass": "selfjava/chap5.s_5_3_4",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
+            "name": "s_5_3_3",
+            "request": "launch",
+            "mainClass": "selfjava/chap5.s_5_3_3",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
+            "name": "s_5_3_2",
+            "request": "launch",
+            "mainClass": "selfjava/chap5.s_5_3_2",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
             "name": "s_5_3",
             "request": "launch",
             "mainClass": "selfjava/chap5.s_5_3",
