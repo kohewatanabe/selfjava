@@ -18,7 +18,7 @@ public class s_6_1_5 {
         // udata.add("さくら");
 
         List<StringBuilder> data2 = new ArrayList<StringBuilder>(Arrays.asList(//Arrays.asListには引数には配列や可変長の要素("あい","う","えお")が渡せる。
-        //一方List.ofは引数に可変長引数しか渡せない。ただ、nullに対する挙動が前者よりいい。したがって、引数に配列を渡す時はArrays.asListで、可変長引数を渡す時はList.of。
+        //一方List.ofは引数に可変長引数しか渡せない。ただ、nullに対する挙動が前者よりいい。したがって、引数に配列を渡す時はArrays.asListで、可変長引数を渡す時はList.of。なおどちらも返り値はList型。
             new StringBuilder("ひふみ"),
             new StringBuilder("よいむ"),
             new StringBuilder("なやこ")
