@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "s_6_2_3",
+            "request": "launch",
+            "mainClass": "selfjava/chap6.s_6_2_3",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
+            "name": "s_6_2_2",
+            "request": "launch",
+            "mainClass": "selfjava/chap6.s_6_2_2",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
             "name": "s_6_2",
             "request": "launch",
             "mainClass": "selfjava/chap6.s_6_2",
