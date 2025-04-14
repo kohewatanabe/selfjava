@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "s_6_5",
+            "request": "launch",
+            "mainClass": "selfjava/chap6.s_6_5",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
             "name": "s_6_4_2",
             "request": "launch",
             "mainClass": "selfjava/chap6.s_6_4_2",
