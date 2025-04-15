@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MethodBasic",
+            "request": "launch",
+            "mainClass": "selfjava/chap_7.method.MethodBasic",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
             "name": "s_7_1_p",
             "request": "launch",
             "mainClass": "selfjava/chap_7.s_7_1_p",
