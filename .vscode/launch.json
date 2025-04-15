@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ConstBasic",
+            "request": "launch",
+            "mainClass": "selfjava/chap_7.constructor.ConstBasic",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
             "name": "OverloadClient",
             "request": "launch",
             "mainClass": "selfjava/chap_7.method.OverloadClient",
