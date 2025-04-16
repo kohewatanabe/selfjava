@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MySingletonMain",
+            "request": "launch",
+            "mainClass": "selfjava/chap_7.staticfield.MySingletonMain",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
             "name": "StaticBasic",
             "request": "launch",
             "mainClass": "selfjava/chap_7.staticfield.StaticBasic",
