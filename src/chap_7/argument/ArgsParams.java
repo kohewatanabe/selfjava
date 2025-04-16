@@ -7,5 +7,6 @@ public class ArgsParams {
             result *= value;
         }
         return result;
+//可変長引数として受け取った値は配列と見なされる。
     }
 }
