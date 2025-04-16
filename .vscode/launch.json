@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "OrderBasic",
+            "request": "launch",
+            "mainClass": "selfjava/chap_7.staticinit.OrderBasic",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
             "name": "ConstantInstance",
             "request": "launch",
             "mainClass": "selfjava/chap_7.staticfield.ConstantInstance",
