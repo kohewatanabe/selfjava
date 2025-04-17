@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NullCheckBasic",
+            "request": "launch",
+            "mainClass": "selfjava/chap_7.optional.NullCheckBasic",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
             "name": "getAverageClient",
             "request": "launch",
             "mainClass": "selfjava/chap_7.practice.getAverageClient",
