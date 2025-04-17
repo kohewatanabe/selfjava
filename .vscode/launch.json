@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "getAverageClient",
+            "request": "launch",
+            "mainClass": "selfjava/chap_7.practice.getAverageClient",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
             "name": "ArgsParamsBasic",
             "request": "launch",
             "mainClass": "selfjava/chap_7.argument.ArgsParamsBasic",
