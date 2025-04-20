@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "selfjava/chap_7.practice2.Main",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
             "name": "OptionalNullCheck",
             "request": "launch",
             "mainClass": "selfjava/chap_7.optional2.OptionalNullCheck",
