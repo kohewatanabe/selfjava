@@ -1,8 +1,8 @@
 package chap8.immutable;
 
-final class Person {
-    private final String name;
-    private final int[] age;
+final class Person {//classをfinalにすると、継承できなくなる。
+    private final String name;//再代入不可の変数にする。
+    private final int[] age;//再代入不可の変数にする。
 
     public Person(String name, int age[]) {
         this.name = name;
