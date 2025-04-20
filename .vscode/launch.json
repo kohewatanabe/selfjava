@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AccessorBasic",
+            "request": "launch",
+            "mainClass": "selfjava/chap8.accessor.AccessorBasic",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "selfjava/chap_7.practice2.Main",
