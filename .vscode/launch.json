@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "InheritConstruct",
+            "request": "launch",
+            "mainClass": "selfjava/chap8.construct.InheritConstruct",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
             "name": "OverrideBasic",
             "request": "launch",
             "mainClass": "selfjava/chap8.override.OverrideBasic",
