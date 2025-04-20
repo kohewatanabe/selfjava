@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ImmutableBasic",
+            "request": "launch",
+            "mainClass": "selfjava/chap8.immutable.ImmutableBasic",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
             "name": "AccessorBasic",
             "request": "launch",
             "mainClass": "selfjava/chap8.accessor.AccessorBasic",
