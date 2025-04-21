@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TypeGetBasic",
+            "request": "launch",
+            "mainClass": "selfjava/chap8.type.TypeGetBasic",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
+            "name": "Type",
+            "request": "launch",
+            "mainClass": "selfjava/chap8.type.Type",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
             "name": "TypeDiffernce",
             "request": "launch",
             "mainClass": "selfjava/chap8.override.TypeDiffernce",
