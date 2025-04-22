@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RouletteMain",
+            "request": "launch",
+            "mainClass": "selfjava/chap8.delegation.RouletteMain",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
             "name": "TypeGetBasic",
             "request": "launch",
             "mainClass": "selfjava/chap8.type.TypeGetBasic",
