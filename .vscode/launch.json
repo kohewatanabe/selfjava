@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PersonMain",
+            "request": "launch",
+            "mainClass": "selfjava/chap9.equals.PersonMain",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
             "name": "ToStringBasic",
             "request": "launch",
             "mainClass": "selfjava/chap9.Person.ToStringBasic",
