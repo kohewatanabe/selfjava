@@ -20,7 +20,7 @@ public class Person {
         if(obj == null) {
             return false;
         }
-        if(obj instanceof Person p) {
+        if(obj instanceof Person p) {//同一のクラスのインスタンスであるか確認する(インスタンスのメソッドの部分は、同じクラスのインスタンスかどうか確認することで判断)。
             return Objects.equals(this.firstName, p.firstName) &&
             Objects.equals(this.lastName, p.lastName);//Objects.eqalsは、渡したObjectの同値性を判断する。
         }
