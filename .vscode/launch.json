@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CloneBasic",
+            "request": "launch",
+            "mainClass": "selfjava/chap9.clone.CloneBasic",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
             "name": "CompareBasic",
             "request": "launch",
             "mainClass": "selfjava/chap9.compare.CompareBasic",
