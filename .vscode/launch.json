@@ -4,10 +4,22 @@
     // 詳細情報は次を確認してください: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+
+        {
+            "type": "java",
+            "name": "Try3",
+            "request": "launch",
+            "args" : ["1", "0"],
+            "mainClass": "selfjava/chap9.Try.Try3",
+            "projectName": "selfjava_79358c7b"
+        },
         {
             "type": "java",
             "name": "Try2",
-            "args" : ["1200", "0"],
+            "args": [
+                "1200",
+                "0"
+            ],
             "request": "launch",
             "mainClass": "selfjava/chap9.Try.Try2",
             "projectName": "selfjava_79358c7b"
