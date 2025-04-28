@@ -6,6 +6,21 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Try2",
+            "args" : ["1200", "0"],
+            "request": "launch",
+            "mainClass": "selfjava/chap9.Try.Try2",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
+            "name": "Try",
+            "request": "launch",
+            "mainClass": "selfjava/chap9.Try.Try",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
             "name": "CloneBasic",
             "request": "launch",
             "mainClass": "selfjava/chap9.clone.CloneBasic",
