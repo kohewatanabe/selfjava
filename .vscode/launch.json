@@ -4,8 +4,13 @@
     // 詳細情報は次を確認してください: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-
-
+        {
+            "type": "java",
+            "name": "Year",
+            "request": "launch",
+            "mainClass": "selfjava/chap9.enum1.Year",
+            "projectName": "selfjava_79358c7b"
+        },
         {
             "type": "java",
             "name": "Assert",
@@ -14,9 +19,8 @@
                 "2",
                 "0"
             ],
-            "vmArgs": [ // ここに vmArgs プロパティを追加または編集
-            "-ea" // assert を有効にするオプション
-            // 他の JVM オプションが必要ならここに追加
+            "vmArgs": [
+                "-ea"
             ],
             "mainClass": "selfjava/chap9.assert1.Assert",
             "projectName": "selfjava_79358c7b"
