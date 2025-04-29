@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CounterBasic",
+            "request": "launch",
+            "mainClass": "selfjava/chap10.method.CounterBasic",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
+            "name": "MethodRefUnuseBasic",
+            "request": "launch",
+            "mainClass": "selfjava/chap10.method.MethodRefUnuseBasic",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
+            "name": "MethodRefUnuseBasic",
+            "request": "launch",
+            "mainClass": "selfjava/chap10.MethodRefUnuseBasic",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
             "name": "Shop",
             "request": "launch",
             "mainClass": "selfjava/chap9.record.Shop",
