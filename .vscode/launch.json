@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Shop",
+            "request": "launch",
+            "mainClass": "selfjava/chap9.nested2.Shop",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
+            "name": "Shop",
+            "request": "launch",
+            "mainClass": "selfjava/chap9.nested.Shop",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
             "name": "Window",
             "request": "launch",
             "mainClass": "selfjava/chap9.anonymous2.Window",
