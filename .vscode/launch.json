@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Shop",
             "request": "launch",
+            "mainClass": "selfjava/chap9.record.Shop",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
+            "name": "Shop",
+            "request": "launch",
             "mainClass": "selfjava/chap9.nested3.Shop",
             "projectName": "selfjava_79358c7b"
         },
