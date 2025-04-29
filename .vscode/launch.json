@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Window",
+            "request": "launch",
+            "mainClass": "selfjava/chap9.anonymous.Window",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
             "name": "Year",
             "request": "launch",
             "mainClass": "selfjava/chap9.enum1.Year",
