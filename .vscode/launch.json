@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MehodLambdaBasic",
+            "request": "launch",
+            "mainClass": "selfjava/chap10.methodlambda.MehodLambdaBasic",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
             "name": "CounterBasic",
             "request": "launch",
             "mainClass": "selfjava/chap10.method.CounterBasic",
