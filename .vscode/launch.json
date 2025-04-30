@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StreamOf",
+            "request": "launch",
+            "mainClass": "selfjava/chap10.StreamOf",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
+            "name": "MapObj",
+            "request": "launch",
+            "mainClass": "selfjava/chap10.MapObj",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
+            "name": "MapDbl",
+            "request": "launch",
+            "mainClass": "selfjava/chap10.MapDbl",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
+            "name": "MapInt",
+            "request": "launch",
+            "mainClass": "selfjava/chap10.MapInt",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
             "name": "ForEach",
             "request": "launch",
             "mainClass": "selfjava/chap10.ForEach",
