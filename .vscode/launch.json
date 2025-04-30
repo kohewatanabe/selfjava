@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CollReplaceMap",
+            "request": "launch",
+            "mainClass": "selfjava/chap10.CollReplaceMap",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
+            "name": "CollReplace",
+            "request": "launch",
+            "mainClass": "selfjava/chap10.CollReplace",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
+            "name": "MethodLambdaScope",
+            "request": "launch",
+            "mainClass": "selfjava/chap10.MethodLambdaScope",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
             "name": "MehodLambdaBasic",
             "request": "launch",
             "mainClass": "selfjava/chap10.methodlambda.MehodLambdaBasic",
