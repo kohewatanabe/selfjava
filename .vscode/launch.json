@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ForEach",
+            "request": "launch",
+            "mainClass": "selfjava/chap10.ForEach",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
+            "name": "ToList3",
+            "request": "launch",
+            "mainClass": "selfjava/chap10.ToList3",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
+            "name": "ToList2",
+            "request": "launch",
+            "mainClass": "selfjava/chap10.ToList2",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
+            "name": "ToList",
+            "request": "launch",
+            "mainClass": "selfjava/chap10.ToList",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
             "name": "CollReplaceMap",
             "request": "launch",
             "mainClass": "selfjava/chap10.CollReplaceMap",
