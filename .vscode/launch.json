@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Sum",
+            "request": "launch",
+            "mainClass": "selfjava/chap10.Sum",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
             "name": "StreamOf",
             "request": "launch",
             "mainClass": "selfjava/chap10.StreamOf",
