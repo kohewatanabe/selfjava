@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Parellel2",
+            "request": "launch",
+            "mainClass": "selfjava/chap10.Parellel2",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
+            "name": "Parallel",
+            "request": "launch",
+            "mainClass": "selfjava/chap10.Parallel",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
             "name": "Match2",
             "request": "launch",
             "mainClass": "selfjava/chap10.Match2",
