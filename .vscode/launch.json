@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SynchronizedUse",
+            "request": "launch",
+            "mainClass": "selfjava/chap11.SynchronizedUse",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
+            "name": "SynchronizedNotUse",
+            "request": "launch",
+            "mainClass": "selfjava/chap11.SynchronizedNotUse",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
             "name": "MyRunnableBasic",
             "request": "launch",
             "mainClass": "selfjava/chap11.MyRunnableBasic",
