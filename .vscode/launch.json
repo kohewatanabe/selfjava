@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MyRunnableBasic",
+            "request": "launch",
+            "mainClass": "selfjava/chap11.MyRunnableBasic",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
+            "name": "MyThreadBasic",
+            "request": "launch",
+            "mainClass": "selfjava/chap11.MyThreadBasic",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
             "name": "Parellel2",
             "request": "launch",
             "mainClass": "selfjava/chap10.Parellel2",
