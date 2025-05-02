@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FutureBasic",
+            "request": "launch",
+            "mainClass": "selfjava/chap11.FutureBasic",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
+            "name": "ThreadCollableBasic",
+            "request": "launch",
+            "mainClass": "selfjava/chap11.ThreadCollableBasic",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
+            "name": "ThreadPoolBasic",
+            "request": "launch",
+            "mainClass": "selfjava/chap11.ThreadPoolBasic",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
+            "name": "LockBasic",
+            "request": "launch",
+            "mainClass": "selfjava/chap11.LockBasic",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
             "name": "SynchronizedUse",
             "request": "launch",
             "mainClass": "selfjava/chap11.SynchronizedUse",
