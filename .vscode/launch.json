@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main2",
+            "request": "launch",
+            "mainClass": "selfjava/main.Main2",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "selfjava/main.Main",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
+            "name": "ModuleClient",
+            "request": "launch",
+            "mainClass": "selfjava/chap11.ModuleClient",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
             "name": "MemoClient",
             "request": "launch",
             "mainClass": "selfjava/chap11.MemoClient",
