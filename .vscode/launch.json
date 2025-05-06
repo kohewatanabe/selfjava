@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AnnotationClient",
+            "request": "launch",
+            "mainClass": "selfjava/chap11.AnnotationClient",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
             "name": "AnnotationBasic",
             "request": "launch",
             "mainClass": "selfjava/chap11.AnnotationBasic",
