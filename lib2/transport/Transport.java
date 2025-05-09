@@ -1,4 +1,4 @@
-package lib.transport;
+package transport;
 
 public interface Transport {
   void ride();

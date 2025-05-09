@@ -1,4 +1,4 @@
-package lib.toy;
+package toy;
 
 public interface Toy {
   void play();  

@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "s_6_1_2",
+            "request": "launch",
+            "mainClass": "app/chap6.s_6_1_2",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
+            "name": "Window",
+            "request": "launch",
+            "mainClass": "lib/chap9.anonymous2.Window",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
+            "name": "CollReplaceMap",
+            "request": "launch",
+            "mainClass": "lib/chap10.CollReplaceMap",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
             "name": "Main2",
             "request": "launch",
             "mainClass": "selfjava/main.Main2",

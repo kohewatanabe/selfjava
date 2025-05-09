@@ -1,5 +1,5 @@
 
 module app {
   exports main;
-  requires lib;
+  requires lib2;
 }
