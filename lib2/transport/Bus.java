@@ -1,4 +1,4 @@
-package lib2.transport;//libが新たなモジュールなので、そこからのルートが新たなルートになる。
+package transport;
 
 public class Bus implements Transport {
   @Override

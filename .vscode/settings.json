@@ -1,8 +1,10 @@
 {
-    "java.project.sourcePaths": ["src", "app", "lib2"],
+    "java.project.sourcePaths": ["src", "lib2", "app"],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
-        "lib/**/*.jar"
+        "lib/**/*.jar"//lib/: プロジェクトのルートディレクトリ直下にある lib という名前のディレクトリを指します。
+                      //** (ダブルアスタリスク / グロブスター): これは「任意のディレクトリ（複数階層にわたって）」を意味します。 つまり、lib ディレクトリの直下だけでなく、その下のサブディレクトリ、さらにその下のサブディレクトリ...と、全ての階層を再帰的に検索するという指示になります。
+                      //*.jar: ** が見つけた任意のディレクトリの中に含まれる、.jar という拡張子を持つ全てのファイルを指します。
     ],
     // "java.debug.settings.onBuildFailureProceed": true
     "editor.insertSpaces": true,

@@ -1,23 +1,20 @@
-package app.main;
+package main;
 
-import lib.toy.Toy;
-import lib.toy.Robot;
-import lib.toy.Train;
-import lib.transport.Transport;
-import lib.transport.Bus;
-// import transport.Train;
+import toy.*;
+import transport.*;
 
 public class Main2 {
-  public static void main(String[] args) {
-    Toy[] toy = {new Robot(), new lib.toy.Train()};
-    Transport[] transport = {new Bus(), new lib.transport.Train()};
+  public static void main(String[] args){
+    Toy[] toy = {new Robot(), new toy.Train()};
 
-    for (Toy i : toy) {
-      i.play();
+    for (Toy t : toy) {
+      t.play();
     }
 
-    for (Transport j : transport) {
-      j.ride();
+    Transport[] transport = {new Bus(), new transport.Train()};
+
+    for (Transport t : transport) {
+      t.ride();
     }
   }
 }

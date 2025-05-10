@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "s_5_1",
+            "request": "launch",
+            "mainClass": "selfjava/chap5.s_5_1",
+            "projectName": "selfjava_79358c7b"
+        },
+        {
+            "type": "java",
             "name": "s_6_1_2",
             "request": "launch",
             "mainClass": "app/chap6.s_6_1_2",
@@ -734,7 +741,11 @@
             "type": "java",
             "name": "s_5_1",
             "request": "launch",
-            "mainClass": "selfjava/chap5.s_5_1",
+            "modulepath": [
+                "${workspaceFolder}/bin"
+            ],
+            "mainClass": "chap5.s_5_1",
+            "moduleName": "selfjava",
             "projectName": "selfjava_79358c7b"
         },
         {

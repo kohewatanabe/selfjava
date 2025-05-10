@@ -1,4 +1,4 @@
-package lib.transport;
+package transport;
 
 public class Train implements Transport {
   @Override

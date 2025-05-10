@@ -1,8 +1,8 @@
-package lib.toy;
+package toy;
 
 public class Robot implements Toy {
   @Override
   public void play() {
-    System.out.println("Playing with a robot.");
+    System.out.println("Playing with a Robot.");
   }
 }

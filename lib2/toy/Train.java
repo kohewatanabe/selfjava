@@ -1,8 +1,8 @@
-package lib.toy;
+package toy;
 
-public class Train implements Toy{
+public class Train implements Toy {
   @Override
   public void play() {
-    System.out.println("Playing with a train.");
+    System.out.println("Playing with a tarin.");
   }
 }
