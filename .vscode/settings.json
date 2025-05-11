@@ -1,5 +1,5 @@
 {
-    "java.project.sourcePaths": ["src", "lib2", "app"],
+    "java.project.sourcePaths": ["src", "libs", "app"],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
         "lib/**/*.jar"//lib/: プロジェクトのルートディレクトリ直下にある lib という名前のディレクトリを指します。
@@ -11,4 +11,5 @@
     "editor.tabSize": 2,
     "files.encoding": "utf8",
     "files.eol": "\n",
+    "java.dependency.packagePresentation": "flat",
 }

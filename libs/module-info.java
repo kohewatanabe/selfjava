@@ -1,4 +1,4 @@
-module lib2 {
+module libs {
   exports toy;
   exports transport;
 }
